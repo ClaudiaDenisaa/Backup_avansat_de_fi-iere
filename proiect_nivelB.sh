@@ -1,7 +1,6 @@
 #!/bin/bash
 
-##Backup_avansat_de_fișiere - proiect nivel B
-##membri: Racolța Claudia Denisa, Răscol Timofte Naomi Denisa, Guiu Lorena Mălina, Beatriz Komaromi, Margău Patricia-Ionela
+##Backup_avansat_de_fișiere
 
 
 ##se vor salva log-urile in fisierul out.log
